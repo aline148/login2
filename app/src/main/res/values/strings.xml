@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu Pet</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Acessar</string>
+    <string name="login">Acessar</string>
+    <string name="ou">ou</string>
+</resources>
